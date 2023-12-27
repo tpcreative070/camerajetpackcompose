@@ -13,7 +13,7 @@ dependencyResolutionManagement {
         mavenLocal()
     }
 }
-rootProject.name = "Camposer"
+rootProject.name = "camerajetpackcompose"
 
 include(":sample")
 include(":camposer")
